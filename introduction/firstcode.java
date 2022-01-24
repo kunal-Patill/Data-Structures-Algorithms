@@ -1,22 +1,22 @@
 package introduction;
 
 import java.util.Scanner;
-//user input sathi hi file use keli jate 
+//  this class is used for getting input from the user 
 
 public class firstcode {
-//         firstcode ha main public class ahe
+// 	   this is the main class of our first code
 	
 	public static void main(String[] args) {
 //	       basic syntax for starting a code in java
 		
 		Scanner sc = new Scanner (System.in);
-//		above statement ne use input process suru hote i.e. scanner
+//		from above statement user input process starts i.e. scanner
 		
 		System.out.println("enter the value of principal");
-//		statement print karaila use hota 
+//		above statement is used for printing data on our screen
 		
 		int principal = sc.nextInt();
-//		above statement is eg of taking integer value from user
+//		above statement is eg. of taking integer value from user
 		System.out.println("enter the value of rate");
 		
 		float rate = sc.nextFloat();
@@ -25,7 +25,8 @@ public class firstcode {
 		int time = sc.nextInt();
 		
 		float simpleIntrest = principal * rate* time / 100;
-//		    ikde simpleIntrest ha variable camelcase format made lihila ahe..which is to be followed everywhere
+//		    here simpleIntrest variable is wrote in camelcase format ..which is to be followed everywhere
+//                  also remember java is a case sensative language  
 	   
 		System.out.println("the simple intrest is " + simpleIntrest);
 		
