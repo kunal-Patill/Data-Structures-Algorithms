@@ -29,7 +29,7 @@ public class OneAndZeros {
 }
 
 
-//  the output will look something like this :
+//  the output will look something like this depending upon the number of rows and columns entered :
 		// 111111
 		// 100001
 		// 100001
