@@ -1,3 +1,4 @@
+// Pattern questions are basically the questions in which we are required to print a pattern asked to us
 package forloops;
 
 import java.util.Scanner;
@@ -24,5 +25,10 @@ public class patterns1 {
 	
 }
 
-		
+// The pattern of above code (if n = 5) is as follows :
+*****
+*****
+*****
+*****
+*****
 		
