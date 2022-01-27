@@ -1,5 +1,5 @@
-//for loops mai .. jo cheez ko repeat karna hota hai vahi loop mai aati hai 
-//aur jo condition hoti hai vo badmai curly bracket mai likhte hai 
+// The statement which you want to repeat is needed to be mentioned inside for loop and the conditions are mentionde inside the curly brackets
+// First part of condition is initialization ... second part is till where you want to run the condition ... and the third part is which fashion you want to iterate 
 
 
 package forloops;
