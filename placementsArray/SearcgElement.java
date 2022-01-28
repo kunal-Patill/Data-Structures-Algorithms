@@ -1,3 +1,5 @@
+// Below given code is basic representation of a searching algorithm used on an array to find if the give number is present inside the array.
+
 package placementsArray;
 
 import java.util.Arrays;
