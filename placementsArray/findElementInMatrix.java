@@ -1,3 +1,4 @@
+// Code here is used to find a element in the given matrix .
 package placementsArray;
 import java.util.Scanner;
 public class findElementInMatrix {
