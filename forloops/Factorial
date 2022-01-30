@@ -1,5 +1,6 @@
-// Here you will get the code to find factorial of a given number !
+// Here you will get the code to find factorial of a given number through inerative and recursive method!
 
+//Iterative code :
 class Factorial {
   public Static void main(String [] args){
   
@@ -11,3 +12,12 @@ class Factorial {
       
     }
 }
+
+Recursive code :
+    static int factorial(int n){
+      if(n==0)
+      return 1;
+      else
+      return (n * factorial(n-1));
+    }
+                                           
