@@ -1,1 +1,13 @@
 // Here you will get the code to find factorial of a given number !
+
+class Factorial {
+  public Static void main(String [] args){
+  
+      int n = 10; int sum =0;
+      for(int i=n; i>0; i--){
+        sum = sum * i;
+        }
+      System.out.println("The factorial of the given number is :" + sum)
+      
+    }
+}
