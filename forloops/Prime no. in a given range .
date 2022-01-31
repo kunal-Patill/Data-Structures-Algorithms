@@ -1,0 +1,30 @@
+	//Here you can find the prime function which return a boolean value when called in the main function !!
+  
+  public static void main(String[] args) {
+		int n =1; int m=100;
+		int ans=0;
+		for(int i=n; i<=m; i++) {
+			if(prime(i)) {
+				System.out.print(i+" ");
+				ans += i;
+			}
+		}
+		System.out.println("The sum is :"+ ans);
+	}
+	
+  
+	public static boolean prime(int m) {
+		int flag=0;
+		if(m==1)
+			return false;
+		for(int i=2;i<m;i++) {
+			if(m%i==0) {
+				flag=1;
+				break;
+			}
+		}
+		if(flag==0)return true;
+		else {
+			return false;
+		}
+	}
