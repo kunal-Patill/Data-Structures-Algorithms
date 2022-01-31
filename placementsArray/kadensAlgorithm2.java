@@ -1,4 +1,4 @@
-//Here you can find the function method 
+//Here you can find the function method where a function name KadAlg is initialized and it gets called inside the main method giving the same output as the previous code.
 package placementsArray;
 
 public class kadensAlgorithm2 {
