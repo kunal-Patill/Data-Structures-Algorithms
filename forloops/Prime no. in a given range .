@@ -1,4 +1,4 @@
-	//Here you can find the prime function which return a boolean value when called in the main function !!
+  //Here you can find the prime function which return a boolean value when called in the main function !!
   
   public static void main(String[] args) {
 		int n =1; int m=100;
@@ -12,7 +12,7 @@
 		System.out.println("The sum is :"+ ans);
 	}
 	
-  
+  // Function for prime number :
 	public static boolean prime(int m) {
 		int flag=0;
 		if(m==1)
