@@ -1,3 +1,4 @@
+// Kadens Algorithm is the best optimum solution to find the max sum subarray in the gicen array 
 package placementsArray;
 
 public class kadensAlgorithm {
