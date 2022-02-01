@@ -1,3 +1,5 @@
+// This code helps ua to find the perfect square f=of a given number by using the sqrt function;
+
 public static void main(String []args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
