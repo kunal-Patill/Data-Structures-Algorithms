@@ -1,4 +1,6 @@
 //You have to find number of words present in the given string 
+//The nexxt word is identiefied by the initial letter given in capital format
+//We use 65<= && >= 90 as these are the ASCII values of capital alphabates 
 
 public static void main (String [] args) {
 		String a = "helloMyNameIsKunalPatil";
