@@ -1,0 +1,13 @@
+//You have to find number of words present in the given string 
+
+public static void main (String [] args) {
+		String a = "helloMyNameIsKunalPatil";
+		int count =1;
+		for(int i=0; i<a.length(); i++) {
+			if(a.charAt(i)>=65 && a.charAt(i)<=90) {
+				count++;
+			}
+		}
+		System.out.println(count);
+	}
+	
