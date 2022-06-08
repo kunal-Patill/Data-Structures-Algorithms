@@ -16,7 +16,9 @@ public class maximumMinimumDiffInArray {
 //			
 //			System.out.print(" "+a[i]);
 //		}
-//		int ans = a[a.length-1] - a[0];
+// 		int ans = a[a.length-1] - a[0];
+		
+// 		This part finds the max and min values present in the array and calculates it =>
 		int smallest = a[0];
 		int largest = a[a.length-1];
 		int ans = largest - smallest;
