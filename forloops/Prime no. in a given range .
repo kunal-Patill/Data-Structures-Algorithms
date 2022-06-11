@@ -1,4 +1,4 @@
-  //Here you can find the prime function which return a boolean value when called in the main function !!
+  //This program can find the prime function which return a boolean value when called in the main function !!
   
   public static void main(String[] args) {
 		int n =1; int m=100;
