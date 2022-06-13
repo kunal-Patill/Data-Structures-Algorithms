@@ -1,4 +1,4 @@
-// This code helps ua to find by using the sqrt function;
+// This code helps us to find out if the given number ia an perfect square by using the sqrt function;
 
 public static void main(String []args) {
 		Scanner sc = new Scanner(System.in);
