@@ -1,4 +1,8 @@
+//This code helps to reverse a given string 
 
+import java.util.Scanner;
+
+//Main method :
 public static void main(String[]args) {
 		Scanner sc = new Scanner(System.in);
 //		System.out.println("Enter your string :");
@@ -7,6 +11,7 @@ public static void main(String[]args) {
 		System.out.println(rev(str));
 	}
 	
+//Reverse Method :
 	public static String rev (String s) {
 		String ans = "";
 		int i = s.length()-1;
