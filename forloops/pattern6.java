@@ -14,9 +14,9 @@ System.out.println();
 }
 
 
-output for the given code is :
-1 1 1 1 1 
-1 0 0 0 1 
-1 0 0 0 1 
-1 0 0 0 1 
-1 1 1 1 1 
+// output for the given code is :
+// 1 1 1 1 1 
+// 1 0 0 0 1 
+// 1 0 0 0 1 
+// 1 0 0 0 1 
+// 1 1 1 1 1 
