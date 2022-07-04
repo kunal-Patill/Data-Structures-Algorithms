@@ -14,3 +14,11 @@ public static void main(String[]args) {
 		System.out.println();
 	}
 	}
+
+
+// Output for the above program is :
+// 1 
+// 0 1 
+// 1 0 1 
+// 0 1 0 1 
+// 1 0 1 0 1 
