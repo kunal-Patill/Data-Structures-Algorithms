@@ -12,7 +12,8 @@ public static void main(String []args) {
 		else 
 			System.out.println("element is not present");
 	}
-	
+
+// This method is used for searching :
 	public static int bin(int arr[], int x, int l, int h) {
 		if(h>=0) {
 			int mid = 1+(h-1)/2;
@@ -27,3 +28,5 @@ public static void main(String []args) {
 		}
 		return -1;
 	}
+
+// The prerequisite for binary search is that the given array should be already sorted 
