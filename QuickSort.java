@@ -1,4 +1,5 @@
-//The below given code can be used for quick sorting technique :
+//The below given code can be used for quick sorting technique 
+//The time complixity of this algorithm is O(nlogn)
 
 public static void main(String[]args) {
 		int arr[] = {4,2,8,12,9,3,15,6,1};
