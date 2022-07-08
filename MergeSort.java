@@ -1,3 +1,4 @@
+// Initial function that calls recursive merge function :
 
 public static void mergeSort (int arr[], int l, int r) {
 		if(l<r) {
