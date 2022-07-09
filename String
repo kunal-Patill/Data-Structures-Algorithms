@@ -1,12 +1,9 @@
-//This code helps to reverse a given string 
+//This code helps to reverse a given string :
 
 import java.util.Scanner;
 
 //Main method :
 public static void main(String[]args) {
-		Scanner sc = new Scanner(System.in);
-//		System.out.println("Enter your string :");
-//		String str = sc.nextLine();
 		String str = "   kunal  patil  ";
 		System.out.println(rev(str));
 	}
